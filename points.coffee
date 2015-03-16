@@ -15,7 +15,7 @@
 #   hubot unset <alias> - unsets the alias
 #
 # Author:
-#   brettlangdon
+#   rishabhc
 #
 
 points = {}
